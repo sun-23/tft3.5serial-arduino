@@ -7,11 +7,7 @@ tft3.5serial.ino is firmware of diy serial tft (Aduino uno + 3.5inch TFT LCD) to
 
 connect
 
-serial tft           arduino uno
-pin 0 <---------------> pin 1
-pin 1 <---------------> pin 0
-
-serial tft | <-----> | arduino uno 
+device | serial tft | <-----> | arduino uno 
 --- | --- | --- 
 pin | 0 | <-----> | 1 
 --- | --- | --- | ---
