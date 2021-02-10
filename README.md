@@ -5,7 +5,7 @@ serialTFT-test.ino is file to control serial tft (Aduino uno + 3.5inch TFT Shiel
 tft3.5serial.ino is firmware of diy serial tft (Aduino uno + 3.5inch TFT Shield) to read command by SERIAL (PIN 0,1) of arduino
 
 
-you must not cennect before upload code because it will error when upload (pin 0,1 same as SERIAL usb port) you must connect after upload code
+you must not connect before upload code because it will error when upload (pin 0,1 same as SERIAL usb port) you must connect after upload code
 
 device | serial tft | <-----> | arduino uno 
 --- | --- | --- | ---
