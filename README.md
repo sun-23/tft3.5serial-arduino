@@ -10,6 +10,5 @@ connect
 device | serial tft | <-----> | arduino uno 
 --- | --- | --- | ---
 pin | 0 | <-----> | 1 
---- | --- | --- | ---
 pin | 1 | <-----> | 0
 
